@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="shiroToure-chapter01-02"
+  id="myeclipse.1466497564701"
+  context-root="/shiroToure-chapter01-02"
+  j2ee-spec="6.0"
+  archive="shiroToure-chapter01-02.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
